@@ -8,7 +8,7 @@
 </align>
 
                         
-<h3 align="center"> A ui ux designer, illustrator and a novice programmer from Johor, Malaysia</h3>
+<h3 align="center"> A ui ux designer, illustrator and a programmer from Johor, Malaysia</h3>
 
 <br/>
 
