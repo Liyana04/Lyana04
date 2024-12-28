@@ -40,7 +40,7 @@
 <br/>
 <hr/>
 
-<div style="align-items:center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Liyana04/Liyana04/output/github-contribution-grid-snake.svg" />
