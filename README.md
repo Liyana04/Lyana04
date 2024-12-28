@@ -30,9 +30,9 @@
 
  <hr/>
  
-<h2 style="align-items:center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 style="text-align:center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div style="align-items:center">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vscode,github,procreate,power bi,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
 </div>
