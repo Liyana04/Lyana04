@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Liyana!;" />
 </h1>
 
-<h3 align="center">A ui ux designer, illustrator and a novice programmer from Johor, Malaysia</h3>
+                        
+<h3 align="center"> A ui ux designer, illustrator and a novice programmer from Johor, Malaysia</h3>
 
 <br/>
 
@@ -13,6 +14,8 @@
  🔭 I’m currently working on **a machine learning web app**
  
  🌱 I’m currently learning **Python and Power BI**
+
+ ⚡ 매일 새로운 것을 배워. 좀 어렵지만 괜찮고 재미있어. 프로그래밍 언어 외에 저는 외국어를 배우는 것을 좋아해. - 莉亚娜
 
  </div>
 
