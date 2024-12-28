@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Liyana!;" />
 </h1>
 
-<h3 align="center">A ui ux designer, illustrator and programmer from Johor, Malaysia</h3>
+<h3 style="align-content: center;">A ui ux designer, illustrator and programmer from Johor, Malaysia</h3>
 
 <br/>
 
-<div align="center">
+<div style="align-content: center;">
  
  🔭 I’m currently working on **a machine learnng web app**
  
@@ -16,7 +16,7 @@
 
  </div>
 
- <div align="center"> 
+ <div style="align-content: center;"> 
   <a href="mailto:liyanaaris04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -30,9 +30,9 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 style="align-content: center;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div style="align-content: center;">
     <img src="https://skillicons.dev/icons?i=html,bootstrap,css,vscode,github,procreate,power bi,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
 </div>
@@ -40,7 +40,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div style="align-content: center;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Liyana04/Liyana04/output/github-contribution-grid-snake.svg" />
