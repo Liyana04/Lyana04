@@ -1,6 +1,6 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Liyana04.Liyana04" />
+<img styl src="https://visitor-badge.laobi.icu/badge?page_id=Liyana04.Liyana04" />
 
-<h1 align="center">
+<h1 style="align-content: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Liyana!;" />
 </h1>
 
