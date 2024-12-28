@@ -3,10 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Liyana!;" />
 </h1>
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
-<br><br>
                         
 <h3 align="center"> A ui ux designer, illustrator and a novice programmer from Johor, Malaysia</h3>
 
