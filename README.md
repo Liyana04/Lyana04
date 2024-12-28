@@ -11,7 +11,7 @@
 
 <div align="center">
  
- <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="20" /> I’m currently working on **a machine learning web app**
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="40" /> I’m currently working on **a machine learning web app**
  
  <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="20" /> I’m currently learning **Python and Power BI**
 
