@@ -13,7 +13,6 @@
 <br/>
 
 <div align="center">
- 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> I’m currently working on **a machine learning web app**
  
  <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="20" /> I’m currently learning **Python and Power BI**
