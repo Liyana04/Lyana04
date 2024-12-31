@@ -19,7 +19,6 @@
  <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="20" /> I’m currently learning **Python and Power BI**
 
  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="20" /> 매일 새로운 것을 배워. 좀 어렵지만 괜찮고 재미있어. 프로그래밍 언어 외에 저는 외국어를 배우는 것을 좋아해. - 莉亚娜
-
  </div>
 
  <div align="center"> 
